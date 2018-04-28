@@ -6,13 +6,13 @@ import java.awt.event.ActionListener;
 public class GG extends JFrame {
 
     public static void main(String[] args) {
-        JFrame ramka = new JFrame();
+        JFrame frame = new JFrame();
         graphic g = new graphic();
-        ramka.setResizable(false);
-        ramka.setBounds(0,0,800,640);
-        ramka.setTitle("Gra");
-        ramka.add(g);
-        ramka.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        ramka.setVisible(true);
+        frame.setResizable(false);
+        frame.setBounds(0,0,800,640);
+        frame.setTitle("Gra");
+        frame.add(g);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setVisible(true);
     }
 }

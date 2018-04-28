@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="febcf054-ca25-4e84-be71-c7c8146ac07c" name="Default" comment="" />
+    <list default="true" id="febcf054-ca25-4e84-be71-c7c8146ac07c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphic.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +20,8 @@
       <file leaf-file-name="GG.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GG.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="45">
+              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,8 +32,8 @@
       <file leaf-file-name="graphic.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/graphic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="90" column="40" lean-forward="true" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+            <state relative-caret-position="265">
+              <caret line="217" column="22" selection-start-line="217" selection-start-column="13" selection-end-line="217" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,7 +54,28 @@
     <findStrings>
       <find>paint</find>
       <find>text</find>
+      <find>drawrectangle</find>
+      <find>ramka</find>
+      <find>brickrect</find>
+      <find>brickXpos</find>
+      <find>brickheight</find>
+      <find>ballrect</find>
+      <find>dirY</find>
+      <find>posslid_Y</find>
     </findStrings>
+    <replaceStrings>
+      <replace>drawbricks</replace>
+      <replace>frame</replace>
+      <replace>brick_rect</replace>
+      <replace>brick_X_pos</replace>
+      <replace>brick_height</replace>
+      <replace>ball_rect</replace>
+      <replace>ball_dirY</replace>
+      <replace>pos_slid_Y</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +97,7 @@
     <option name="width" value="1368" />
     <option name="height" value="780" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -182,8 +209,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32882884" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298193" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
@@ -307,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GG.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -317,8 +344,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graphic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="90" column="40" lean-forward="true" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+        <state relative-caret-position="265">
+          <caret line="217" column="22" selection-start-line="217" selection-start-column="13" selection-end-line="217" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
