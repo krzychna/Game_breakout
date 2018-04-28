@@ -10,7 +10,7 @@ public class GG extends JFrame {
         graphic g = new graphic();
         frame.setResizable(false);
         frame.setBounds(0,0,800,640);
-        frame.setTitle("Gra");
+        frame.setTitle("Game");
         frame.add(g);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
